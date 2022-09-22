@@ -27,6 +27,9 @@ This is a basic Express.js server used for JS Dev Experience documentation, in p
     ```bash
     npm start
     ```
+    
+# Test
+
 # Status 
 
 [![Build Status](https://dev.azure.com/farelas07/CICD/_apis/build/status/farelas07.js-e2e-express-server?branchName=main)](https://dev.azure.com/farelas07/CICD/_build/latest?definitionId=2&branchName=main)
